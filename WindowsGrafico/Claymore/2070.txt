@@ -1,0 +1,2 @@
+EthDcrMiner64.exe -epool asia.ethash-hub.miningpoolhub.com:20535 -ewal tamono.1 -eworker tamono.1 -esm 2 -epsw x
+-cclock 1305 -cvddc 750 -mclock 7750 -fanmin 60 -fanmax 80
